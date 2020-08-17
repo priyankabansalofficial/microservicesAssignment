@@ -1,7 +1,7 @@
 FROM openjdk:8u212-jdk-slim
 
 # Maintainer Info
-LABEL maintainer="varunmanchanda67@gmail.com"
+LABEL maintainer="priyankabansalofficial@gmail.com"
 
 VOLUME /tmp
 
